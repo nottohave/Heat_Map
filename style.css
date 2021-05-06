@@ -1,0 +1,18 @@
+body {
+  background-color: white;
+  font: sans-serif;
+}
+
+#canvas {
+  background-color: linen;
+  padding-left: 30px;
+}
+
+#title, #description, #tooltip {
+  text-align: center;
+  font: sans-serif;
+}
+
+#legend {
+  font-size: 12px;
+}
